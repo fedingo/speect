@@ -24,6 +24,7 @@ add_subdirectory(pauses)
 add_subdirectory(syltone)
 add_subdirectory(morphdecomp)
 add_subdirectory(uttbreak)
+add_subdirectory(crfsuite)
 
 # Also see speect/plugins/cmake/pluginOptions.cmake
 if(HAVE_HUNPOS)
